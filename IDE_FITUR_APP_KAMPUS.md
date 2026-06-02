@@ -25,6 +25,18 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+#### Fitur Jadwal Mahasiswa
+Fitur ini berguna bagi para mahasiswa dan dosen untuk melihat jadwal dalam seminggu
+
+#### Target Pengguna 
+Mahasiswa dan Dosen
+
+#### Value Propostion 
+Meningkatkan kemudahan mahasiswa dan dosen untuk melihat jadwal
+
+#### Diajukan Oleh
+Ammar Ali Yasir
+23/520644/TK/57406
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
